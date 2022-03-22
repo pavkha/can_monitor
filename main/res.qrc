@@ -1,0 +1,9 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../icons/connect.png</file>
+    <file>../icons/disconnect.png</file>
+    <file>../icons/exit.png</file>
+    <file>../icons/settings.png</file>
+    <file>../icons/clear.png</file>
+</qresource>
+</RCC>

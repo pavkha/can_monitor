@@ -1,0 +1,3 @@
+#pragma once
+
+#define CAN_MONITOR_VERSION "<b>v@PROJECT_VERSION@</b>"
